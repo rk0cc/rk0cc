@@ -1,16 +1,37 @@
-### Hi there 👋
+[&nbsp;&nbsp;&nbsp;&nbsp;0.000000]:System boot
 
-<!--
-**rk0cc/rk0cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[&nbsp;&nbsp;&nbsp;&nbsp;0.198332]:Check github repos
 
-Here are some ideas to get you started:
+[&nbsp;&nbsp;&nbsp;&nbsp;0.349987]:Check email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[&nbsp;&nbsp;&nbsp;&nbsp;0.910437]:Check workshops
+
+[&nbsp;&nbsp;&nbsp;&nbsp;1.029984]:<b>Fatal:</b> servel incompleted workshops' will be overdue!
+
+rk0cc 0.0.0 ABC/ABCOS
+
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
+<br/>
+
+$~: echo "DO WORKSHOP NOW!"
+
+<br/>
+
+DO WORKSHOP NOW!
+
+<br/>
+
+$~:_
