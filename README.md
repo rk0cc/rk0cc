@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io&langs_count=10&layout=compact)](#)
+
 [![Laptop specs](https://valid.x86.fr/cache/banner/ub5ln2-6.png)](https://valid.x86.fr/ub5ln2)
 
 ![Unovan be like haha it's chewsday innit Yeah I'll "chew" yer arms off ya daft cunt](https://i.ytimg.com/vi/2hhbW9h7UiU/mqdefault.jpg)
