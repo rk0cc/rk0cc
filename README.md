@@ -1,4 +1,4 @@
-[![By me a meal](https://cdn.buymeacoffee.com/buttons/v2/default-green.png)](https://www.buymeacoffee.com/rk0cc) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io&langs_count=10&layout=compact&hide=html)](#)
+[![By me a meal](https://cdn.buymeacoffee.com/buttons/v2/default-green.png)](https://www.buymeacoffee.com/rk0cc) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io&langs_count=10&layout=compact&hide=html,css,Makefile)](#)
 
 [![Laptop specs](https://valid.x86.fr/cache/banner/ub5ln2-6.png)](https://valid.x86.fr/ub5ln2)
 
