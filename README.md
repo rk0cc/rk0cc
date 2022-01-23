@@ -8,7 +8,7 @@
 
 # Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io&langs_count=10&layout=compact&hide=html,css,Makefile)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io&langs_count=10&layout=compact&hide=html,css,Makefile,CMake)](#)
 
 ### Out of idea content
 [![Laptop specs](https://valid.x86.fr/cache/banner/ub5ln2-6.png)](https://valid.x86.fr/ub5ln2)
