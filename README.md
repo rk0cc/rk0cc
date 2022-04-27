@@ -8,7 +8,7 @@
 
 # Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io&langs_count=10&layout=compact&hide=html,css,Makefile,CMake,Dockerfile)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io,rk0cc&langs_count=10&layout=compact&hide=html,css,Makefile,CMake,Dockerfile,scss)](#)
 
 ### Out of idea content
 
