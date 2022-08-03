@@ -1,3 +1,5 @@
+Mainly Dart > .NET (>=5.0 or Framework) > Node.js > Maven (Java)
+
 # Donate
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" width="400"/>](https://www.buymeacoffee.com/rk0cc)
