@@ -19,7 +19,7 @@
 
 ### Out of idea content
 
-[![Laptop specs](https://valid.x86.fr/cache/banner/ub5ln2-6.png)](https://valid.x86.fr/ub5ln2)
+[![Laptop specs](https://valid.x86.fr/cache/banner/d8l8x4-6.png)](https://valid.x86.fr/d8l8x4)
 
 [![Desktop specs](https://valid.x86.fr/cache/banner/hmyxmp-6.png)](https://valid.x86.fr/hmyxmp)
 
