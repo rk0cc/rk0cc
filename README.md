@@ -4,7 +4,7 @@
   <img src="https://static.wikia.nocookie.net/kamenrider/images/9/95/Garren_Ep1_Meme_CSM_Visual_Art.jpg/revision/latest/scale-to-width-down/250?cb=20210404113438"/>
   <del><sub><sub>&lt;- traitor</sub></sub></del>
 </p>
-<img width="32" src="https://user-images.githubusercontent.com/70585816/215118876-94cd86e9-8153-4c06-b0b9-09fd4632055a.jpg"/>
+<img width="32" src="https://user-images.githubusercontent.com/70585816/215118876-94cd86e9-8153-4c06-b0b9-09fd4632055a.jpg" alt="Static Enshin Flash from Umamusume"/>
 
 # Donate
 
@@ -29,6 +29,7 @@
 ![Ring ding ding ding ding ding Ring ding ding ding bem bem bem Ring ding ding ding ding ding Ring ding ding ding baa baa Ring ding ding ding ding ding Ring ding ding ding bem bem bem Ring ding ding ding ding ding This is the Crazy Frog](https://i.kym-cdn.com/photos/images/newsfeed/000/225/380/tumblr_lwyc4tU63C1qecay6o1_250.gif)
 ![Mr. mazepin i drink that vodka with my daddy's friends I'm daddy's friend i'm daddy's big passion He gives me massive bins of cash cash cash](https://media.giphy.com/media/zWhyZNQcqMYiNOpY2Z/source.gif)
 ![I'm just vibin' the ritz car](https://media.giphy.com/media/vmYtpg1DkKi2WEhEHu/giphy-downsized.gif)
+<img src="https://user-images.githubusercontent.com/70585816/235952536-866bf22e-6860-4154-b612-ac551c5f7e1e.gif" width="48" alt="Animated Eishin Flash from Umamusume"/>
 
 # Twitter page
 * [Personal](https://twitter.com/rk0cc)
