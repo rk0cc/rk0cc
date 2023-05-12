@@ -31,6 +31,13 @@
 ![I'm just vibin' the ritz car](https://media.giphy.com/media/vmYtpg1DkKi2WEhEHu/giphy-downsized.gif)
 <img src="https://user-images.githubusercontent.com/70585816/235952536-866bf22e-6860-4154-b612-ac551c5f7e1e.gif" width="48" alt="Animated Eishin Flash from Umamusume"/>
 
-# Twitter page
+# Contact
+
+### Twitter
+
 * [Personal](https://twitter.com/rk0cc)
-* [Brand account](https://twitter.com/rk0cc_brand)
+* [Brand account](https://twitter.com/rk0ccdotxyz)
+
+### Email
+
+* [Contract with rk0cc](mailto:enquiry@rk0cc.xyz)
