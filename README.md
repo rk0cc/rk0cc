@@ -1,7 +1,7 @@
 # Mainly Dart > .NET (>=5.0 or Framework) > Node.js > Maven (Java)
 
 <p align="right">
-  <img src="https://static.wikia.nocookie.net/kamenrider/images/9/95/Garren_Ep1_Meme_CSM_Visual_Art.jpg/revision/latest/scale-to-width-down/250?cb=20210404113438"/>
+  <img src="https://static.wikia.nocookie.net/kamenrider/images/9/95/Garren_Ep1_Meme_CSM_Visual_Art.jpg/revision/latest/scale-to-width-down/250?cb=20210404113438" alt="ｵﾝﾄﾞｩﾙﾙﾗｷﾞｯﾀﾝﾃﾞｨｽｶｰ"/>
   <del><sub><sub>&lt;- traitor</sub></sub></del>
 </p>
 <img width="32" src="https://user-images.githubusercontent.com/70585816/215118876-94cd86e9-8153-4c06-b0b9-09fd4632055a.jpg" alt="Static Enshin Flash from Umamusume"/>
