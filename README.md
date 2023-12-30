@@ -18,6 +18,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rk0cc)](#)
 [![GitHub stats (Chinese)](https://github-readme-stats.vercel.app/api?username=rk0cc&locale=zh-tw)](#)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io,rk0cc&langs_count=10&layout=compact&hide=html,css,Makefile,CMake,Dockerfile,scss)](#)
 [![Top Langs (Chinese)](https://github-readme-stats.vercel.app/api/top-langs/?username=rk0cc&exclude_repo=rk0cc.github.io,rk0cc&langs_count=10&layout=compact&hide=html,css,Makefile,CMake,Dockerfile,scss&locale=zh-tw)](#)
 
