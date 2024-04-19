@@ -37,6 +37,11 @@
 * [Personal](https://twitter.com/rk0cc)
 * [Brand account](https://twitter.com/rk0ccdotxyz)
 
+### Bluesky
+
+* [Personal](https://bsky.app/profile/rk0cc.xyz)
+* [Brand account](https://bsky.app/profile/osp.rk0cc.xyz)
+
 ### Email
 
 * [Contract with rk0cc](mailto:enquiry@rk0cc.xyz)
