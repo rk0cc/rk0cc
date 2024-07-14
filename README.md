@@ -32,11 +32,6 @@
 
 # Contact
 
-### Twitter
-
-* [Personal](https://twitter.com/rk0cc)
-* [Brand account](https://twitter.com/rk0ccdotxyz)
-
 ### Bluesky
 
 * [Personal](https://bsky.app/profile/rk0cc.xyz)
