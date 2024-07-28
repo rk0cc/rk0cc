@@ -24,7 +24,7 @@
 
 ### Out of idea content
 
-[![Laptop specs](https://valid.x86.fr/cache/banner/d8l8x4-6.png)](https://valid.x86.fr/d8l8x4)
+[![Laptop specs](https://valid.x86.fr/cache/banner/sucrk6-6.png)](https://valid.x86.fr/sucrk6)
 
 [![Desktop specs](https://valid.x86.fr/cache/banner/hmyxmp-6.png)](https://valid.x86.fr/hmyxmp)
 
